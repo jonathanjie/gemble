@@ -1,0 +1,14 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Korea"
+    },
+    "my-pool-ids": {
+        "0": "0ec9d6663efc55535037bbe1e5b4917d8c5db45b04e4751579c63935"
+    },
+    "when-satured-then-recommend": {
+        "0": "0ec9d6663efc55535037bbe1e5b4917d8c5db45b04e4751579c63935"
+    }
+}
