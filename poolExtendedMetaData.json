@@ -18,12 +18,12 @@
             "addr": "Street, Number",
             "city": "Ansan City",
             "country": "Korea",
-            "company_id": "-",
-            "vat_id": "-"
+            "company_id": "123",
+            "vat_id": "123"
         },
         "about": {
             "me": "...",
-            "server": "...",
+            "server": "Carefully maintained cloud server situated in Southeast Asia.",
             "company": "..."
         }
     },
@@ -39,9 +39,19 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 asia",
+                "name": "relay 1 eu",
                 "type": "relay",
-                "key": "..."
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
             }
         }
     }
