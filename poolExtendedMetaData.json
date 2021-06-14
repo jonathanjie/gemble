@@ -2,7 +2,7 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://cdn.discordapp.com/attachments/849312918025011223/851361461229453312/64x64.png",
-        "url_png_logo": "https://cdn.discordapp.com/attachments/849312918025011223/851362642232606740/256x256.png",
+        "url_png_logo": "https://cdn.discordapp.com/attachments/849312918025011223/853606470285262888/KakaoTalk_20210604_205759560_01.png",
         "location": "Korea",
         "social": {
             "twitter_handle": "AdapoolsO",
@@ -14,17 +14,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Gemble",
-            "addr": "Street, Number",
-            "city": "Ansan City",
+            "name": "Gemble Korea",
+            "addr": "...",
+            "city": "Ansan",
             "country": "Korea",
-            "company_id": "123",
-            "vat_id": "123"
+            "company_id": "...",
+            "vat_id": "..."
         },
         "about": {
-            "me": "...",
+            "me": "We are <Team Gemble>, a group of entrepreneurs from South Korea, Singapore, Vietnam and Thailand. Operators of Stake Pools as well as leading various projects with NFTs.",
             "server": "Carefully maintained cloud server situated in Southeast Asia.",
-            "company": "..."
+            "company": "Team Gemble NFTs project - www.gemble.net"
         }
     },
     "my-pool-ids": {
