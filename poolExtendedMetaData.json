@@ -8,18 +8,18 @@
             "twitter_handle": "AdapoolsO",
             "telegram_handle": "jonblackpixels",
             "facebook_handle": "",
-            "youtube_handle": "",
+            "youtube_handle": "https://www.youtube.com/channel/UCTlVGZSTWWxIS5I2lvhBMQQ",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
         },
         "company": {
             "name": "Gemble Korea",
-            "addr": "...",
+            "addr": "",
             "city": "Ansan",
             "country": "Korea",
-            "company_id": "...",
-            "vat_id": "..."
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": "We are <Team Gemble>, a group of entrepreneurs from South Korea, Singapore, Vietnam and Thailand. Operators of Stake Pools as well as leading various projects with NFTs.",
